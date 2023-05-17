@@ -29,6 +29,6 @@ Summary:
 
 The results of our modeling, as stated above were not able to reach the desired results even with the addition of extra hidden layers and tweaks to the activations for the hidden layers. The best score recorded:
 
-loss: 0.5544  accuracy: 0.7262
+loss: 0.5552  accuracy: 0.7277
 
 Some further adjustments that could have been made to assist our model would be to further trim down our data features to see if any of the other included columns following preprocessing were causing any unforseen interference for our model. Another suggestion would be to use the available keras tuner to provide additional developer assistance with the creation of this model in a more streamlined manner.
