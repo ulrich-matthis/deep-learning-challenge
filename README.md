@@ -4,7 +4,7 @@ For this week's challenge we were provided AlphabetSoup application data and wer
 
 This repository contains two notebooks. One contains the original model and the other contains my three optimization attempts with the same preprocessing steps. The primary model and best optomized model result outputs are included in the two h5 files.
 
-**Developer Note** At time of submission the h5 files were not working for me to include pictures of them in the analysis markdown file.
+**Developer Note** At time of submission the h5 files were not working properly on my machine for me to include pictures of them in the analysis markdown file.
 
 References:
 All available documentation for Neural Network Modeling in Python
