@@ -9,3 +9,4 @@ This repository contains two notebooks. One contains the original model and the 
 References:
 All available documentation for Neural Network Modeling in Python
 Callbacks for our model: https://stackoverflow.com/questions/74963652/how-to-save-tensorflow-neural-networks-at-custom-intervals
+Examples to aid my model tuning: https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/intro_to_neural_nets.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=intro_to_nn_tf2-colab&hl=en
